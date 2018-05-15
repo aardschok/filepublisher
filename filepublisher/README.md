@@ -3,6 +3,9 @@
 This tool is meant to help artists and others to publish files from any where on
 disk into the pipeline.
 
+[![https://gyazo.com/7045af21cbf0a86527f2208d6cfd1853](https://i.gyazo.com/7045af21cbf0a86527f2208d6cfd1853.png)](https://gyazo.com/7045af21cbf0a86527f2208d6cfd1853)
+
+
 #### Features:
 
 * Context switching within the project it has been launched
